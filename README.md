@@ -37,13 +37,13 @@
     * in the file I import the class and instantiate different objects (2 different dogs) fromt the class
     * In Python you can easily buld classes.
 
-`
+```
 class Dog:
 
     def __init__(self, name, age):
         self.name = name
         self.age = age
-`
+```
 
 
 
