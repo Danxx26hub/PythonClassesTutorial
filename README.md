@@ -22,15 +22,15 @@
     * When you create and object from a class that is know as "instantianting".
 
 * Classes have "Properties" and "Behaviors".
-    Example: 
-    person class:
-        properties
-            name
-            height
-        behaviors:
-            run 
-            talk 
-            walk
+    * Example: 
+    * person class:
+        - properties
+            - name
+            - height
+         - behaviors:
+           - run 
+           - talk 
+           - walk
 
 
 
