@@ -22,7 +22,7 @@
     * When you create and object from a class that is know as "instantianting".
 
 * Classes have "Properties" and "Behaviors".
-    Exampel: 
+    Example: 
     person class:
         properties
             name
