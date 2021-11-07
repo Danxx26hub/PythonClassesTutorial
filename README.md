@@ -32,10 +32,11 @@
            - talk 
            - walk
 
-## Example code Class and file where I instantiate different objects from the same class
+# Example code Class and file where I instantiate different objects from the same class
     * in the class example I create a "Dog" class
     * in the file I import the class and instantiate different objects (2 different dogs) fromt the class
     * In Python you can easily buld classes.
+
 
 ```
 class Dog:
