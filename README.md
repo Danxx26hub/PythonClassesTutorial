@@ -38,12 +38,28 @@
     * In Python you can easily buld classes.
 
 
+# my class is in a testClass file named testClass.py .. I could have named it Dog.py 
+
 ```
 class Dog:
 
     def __init__(self, name, age):
         self.name = name
         self.age = age
+```
+
+# importing the class into my main Python file.
+
+```
+from testClass import Dog
+
+FirstDog = Dog('Peggy', 10)
+SecondDog = Dog('Toby', 5)
+
+print(FirstDog.name)
+print(FirstDog.age)
+print(SecondDog.name)
+
 ```
 
 
