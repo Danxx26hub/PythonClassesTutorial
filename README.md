@@ -1,6 +1,6 @@
-### Python Classes and Basic OOP Tutorial 
+# Python Classes and Basic OOP Tutorial 
 
-# This Repo was intended as notes for me but you are welcome to use this as a basic tutorial!
+### This Repo was intended as notes for me but you are welcome to use this as a basic tutorial!
 
 * What is OOP?
     * A way to organize your code, also known as paradigm.
@@ -32,13 +32,13 @@
            - talk 
            - walk
 
-# Example code Class and file where I instantiate different objects from the same class
+### Example code Class and file where I instantiate different objects from the same class
     * in the class example I create a "Dog" class
     * in the file I import the class and instantiate different objects (2 different dogs) fromt the class
     * In Python you can easily buld classes.
 
 
-# my class is in a testClass file named testClass.py .. I could have named it Dog.py 
+### my class is in a testClass file named testClass.py .. I could have named it Dog.py 
 
 ```
 class Dog:
@@ -48,7 +48,7 @@ class Dog:
         self.age = age
 ```
 
-# importing the class into my main Python file.
+### importing the class into my main Python file.
 
 ```
 from testClass import Dog
