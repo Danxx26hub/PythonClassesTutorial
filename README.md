@@ -16,4 +16,21 @@
         * Can have a named
         * You can define your own classes
 
-        
+* Classes are used to create objects:
+    * you can create many, unique objects from a single class
+    * Classes define the type.
+    * When you create and object from a class that is know as "instantianting".
+
+* Classes have "Properties" and "Behaviors".
+    Exampel: 
+    person class:
+        properties
+            name
+            height
+        behaviors:
+            run 
+            talk 
+            walk
+
+
+
